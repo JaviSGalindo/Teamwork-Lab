@@ -24,3 +24,8 @@ color: blue;
 .img-thumbnail{
   height: 200px;
 }
+
+.img-thumbnail {
+  height: 200px;
+  border: 0;
+}
