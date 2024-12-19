@@ -2,9 +2,30 @@ html {
     height: 100%;
     width: 100%;
   }
+  
+/* Fondo gris */
+body {
+  background-color: gray;
+}
+
+/* Color de todos los h3 a verde */
+h3 {
+  color: green;
+}
+
+.blueh3 {
+color: blue;
+}
+
+.redh3{
+  color: red;
+}
+
+.img-thumbnail{
+  height: 200px;
+}
 
 .img-thumbnail {
   height: 200px;
   border: 0;
 }
-  
